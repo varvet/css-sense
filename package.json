@@ -2,6 +2,7 @@
   "name": "css-sense",
   "displayName": "css-sense",
   "publisher": "johanhalse",
+  "repository": "https://github.com/varvet/css-sense",
   "description": "It finds CSS classes from imported CSS",
   "version": "0.0.1",
   "engines": {
